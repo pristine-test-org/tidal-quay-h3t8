@@ -18,3 +18,4 @@ header a { color: var(--accent); }
 #live ul { padding-left: 1.2rem; line-height: 1.8; }
 .muted { color: #777; list-style: none; margin-left: -1.2rem; }
 footer { color: #777; font-size: 0.9rem; border-top: 1px solid #e5e5e0; }
+/* build check */
