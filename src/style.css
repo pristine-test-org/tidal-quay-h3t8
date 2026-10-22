@@ -1,0 +1,20 @@
+:root {
+  font-family: system-ui, sans-serif;
+  color: #1c1c1c;
+  background: #fafaf7;
+}
+body { margin: 0; }
+header, main, footer { max-width: 44rem; margin: 0 auto; padding: 1.25rem 1rem; }
+header { display: flex; justify-content: space-between; align-items: center; }
+header a { color: var(--accent); }
+.mark { font-weight: 700; color: var(--accent); }
+.hero { padding: 4rem 0 3rem; }
+.hero h1 { font-size: clamp(2rem, 6vw, 3.25rem); margin: 0 0 1rem; }
+.hero p { font-size: 1.15rem; line-height: 1.5; max-width: 34rem; }
+.cta {
+  display: inline-block; margin-top: 1rem; padding: 0.7rem 1.2rem; border-radius: 0.5rem;
+  background: var(--accent); color: #fff; text-decoration: none; font-weight: 600;
+}
+#live ul { padding-left: 1.2rem; line-height: 1.8; }
+.muted { color: #777; list-style: none; margin-left: -1.2rem; }
+footer { color: #777; font-size: 0.9rem; border-top: 1px solid #e5e5e0; }
