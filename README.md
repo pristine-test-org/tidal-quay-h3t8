@@ -6,11 +6,9 @@ project. Row in the support matrix: REN-1098 (Linear, project Onboarding evals).
 
 ## Deployment links
 
-Filled in at prep time.
-
 | Production | Preview gate |
 |---|---|
-| _not deployed_ | no |
+| https://tidal-quay-h3t8.onrender.com (Render static site `srv-dbd1foavcj2c739bs5kg`) | no |
 
 ## Names
 
